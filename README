@@ -1,0 +1,10 @@
+To run:
+octave main
+
+Requires GNUPlot
+
+
+Output:
+Red: EKF belief
+Blue: Ground Truth
+Green: Odometry only belief
